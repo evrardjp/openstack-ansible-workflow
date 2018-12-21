@@ -1,6 +1,0 @@
----
-debug: True
-verbose: False
-keystone_auth_admin_password: ZsJxiCObU6R28EQD5oyH
-#bootstrap_host_data_disk_device: xvde
-apply_security_hardening: False

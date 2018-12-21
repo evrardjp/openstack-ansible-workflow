@@ -1,5 +1,0 @@
-- name: sshd
-  src: https://github.com/willshersystems/ansible-sshd
-- name: keepalived
-  src: https://github.com/evrardjp/ansible-keepalived
-  version: master
